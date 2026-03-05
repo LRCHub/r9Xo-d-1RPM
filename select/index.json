@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "恋する惑星「アナタ」",
+  "base_artist": "冨岡 愛",
+  "createdAt": "2026-03-05T03:26:52.489105Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋する惑星「アナタ」",
+      "artist": "冨岡愛",
+      "has_synced": false,
+      "path": "select/pl_01_恋する惑星「アナタ」_冨岡愛.txt"
+    }
+  ]
+}
